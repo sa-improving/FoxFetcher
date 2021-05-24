@@ -1,0 +1,12 @@
+#foxImage, #foxVideo{
+    max-width: 250px;
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
